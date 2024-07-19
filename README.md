@@ -22,7 +22,7 @@ or
 ## Features
 
 - **Streamlit Interface:** User-friendly interface for easy interaction and document upload.
-- **Lamini Model:** Utilizes a state-of-the-art Lamini model for high-quality summaries.
+- **LaMini Model:** Utilizes a state-of-the-art Lamini model for high-quality summaries.
 - **LangChain Integration:** Seamless integration with LangChain to streamline model operations.
 - **Hugging Face:** Incorporates models from Hugging Face, ensuring access to cutting-edge NLP technology.
   
