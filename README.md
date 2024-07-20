@@ -4,7 +4,7 @@ This project involves the creation of a Streamlit application designed to automa
 
  LaMini-Flan-T5-248M:
 
-This model is one of LaMini-LM model series in paper "LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions". This model is a fine-tuned version of google/flan-t5-base on LaMini-instruction dataset that contains 2.58M samples for instruction fine-tuning. LaMini-Flan-T5-248M is a lightweight, fine-tuned variant of the T5 model with 248 million parameters. It is designed to perform a variety of NLP tasks efficiently by treating each task as a text-to-text problem. This specific model variant likely balances performance and resource efficiency, making it suitable for applications where computational resources are limited or where faster processing is needed.
+This model is one of LaMini-LM model series in paper "LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions". This model is a fine-tuned version of google/flan-t5-base on LaMini-instruction dataset that contains 2.58M samples for instruction fine-tuning. LaMini-Flan-T5-248M is a lightweight, fine-tuned variant of the T5 model with 248 million parameters. It is designed to perform a variety of NLP tasks efficiently by treating each task as a text-to-text problem. This specific model variant balances performance and resource efficiency, making it suitable for applications where computational resources are limited or where faster processing is needed.
 
 for more details on the model, visit: ``` https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M ``` 
 or 
@@ -33,8 +33,8 @@ or
 To install Document-Summarizer, follow these steps:
 
 1. Clone the repository:
-   ```sh
-   git@github.com:Yadunandanv08/Document-Summarizer.git
+  ```sh
+   git clone git@github.com:Yadunandanv08/Document-Summarizer.git
    ```
 2. Navigate to the project directory:
   ```sh
